@@ -16,7 +16,7 @@
 - [Roadmap](#compass-roadmap)
 - [FAQ](#grey_question-faq)
 - [License](#warning-license)
-- [Contact](#handshake-contact)
+- [Author](#handshake-author)
 - [Acknowledgements](#gem-acknowledgements)
 
 
@@ -48,7 +48,7 @@
 
 - KICAD!!!<a href="kicad.org"> Here</a>
 ```bash
-ITS KICAD!
+ xdg-open https:kicad.org
 ```
 
 
@@ -105,16 +105,14 @@ Please read the [Code of Conduct](https://github.com/VMS-HC/Corn-Bit/blob/master
 
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-## :handshake: Contact
+## :handshake: Author
 
-Bobert3d - -
+Bobert3D!
 
 Project Link: [https://github.com/VMS-HC/Corn-Bit](https://github.com/VMS-HC/Corn-Bit)
 
 ## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
 
 - [Thanks to And at HC Slack and all the peeps who helped me keep this from becoming a bomb of electronics...](Take a peek at kicad docs!)
