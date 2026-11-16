@@ -4118,6 +4118,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "399-15687-2-ND"
+			(at 254 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "104295cd-a17d-40b6-ba7a-40651dd80dac")
 		)
@@ -4186,6 +4195,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "541-1.00KCTR-ND"
+			(at 96.52 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "239325cb-8d28-4319-9998-f03d5b3ed882")
 		)
@@ -4247,6 +4265,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 128.27 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "2019-RK73H2ATTD4700FTR-ND"
+			(at 128.27 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4383,6 +4410,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 168.91 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "311-4.70KCRTR-ND"
 			(at 168.91 71.12 0)
 			(effects
 				(font
@@ -4725,6 +4761,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "408-RG2012P-105-B-T5TR-ND"
+			(at 41.91 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "976ae3e9-9183-4414-9571-1b8857d0e478")
 		)
@@ -4862,6 +4907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "311-4.70KCRTR-ND"
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cac515e3-ac86-4cb4-bbe9-faab39bab8de")
 		)
@@ -4923,6 +4977,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "RMCF0805FT5K10TR-ND"
+			(at 64.77 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5265,6 +5328,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "311-4.70KCRTR-ND"
+			(at 179.07 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8dad392a-055f-486b-8fa8-edf32f641e58")
 		)
@@ -5335,6 +5407,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "399-15687-2-ND"
+			(at 220.98 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "428de0c2-a0f6-480f-ba8c-15d09f11c0de")
 		)
@@ -5395,6 +5476,15 @@
 			)
 		)
 		(property "Description" "Common 5mm diameter LED"
+			(at 106.68 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "160-1179-2-ND"
 			(at 106.68 154.94 0)
 			(effects
 				(font
@@ -5605,6 +5695,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "399-C0805C103K5RACTUTR-ND"
+			(at 41.91 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c95121a-0de9-438a-8b5e-dbeabc24772d")
 		)
@@ -5743,6 +5842,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "612-TS-103-T-A-ND"
+			(at 121.92 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ef85114-013e-428c-b520-7262e52391fd")
 		)
@@ -5814,6 +5922,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "399-C0805C105K4RACTUTR-ND"
+			(at 158.75 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa61d8e2-6af5-4800-95ed-48ffb7c77d2c")
 		)
@@ -5875,6 +5992,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 109.22 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "399-C0805C105K4RACTUTR-ND"
+			(at 109.22 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6017,6 +6143,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "2019-RK73H2ATTD4700FTR-ND"
+			(at 181.61 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35cacee4-ad97-4528-9170-a22a52a3ff9b")
 		)
@@ -6079,6 +6214,15 @@
 			)
 		)
 		(property "Description" "Pin header"
+			(at 228.6 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "TSW-105-23-F-S-ND"
 			(at 228.6 134.62 0)
 			(effects
 				(font
@@ -6164,6 +6308,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "497-1236-2-ND"
+			(at 240.03 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e437932a-c2ec-4697-b206-b7a48e4dd06d")
 		)
@@ -6237,6 +6390,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "160-1179-2-ND"
+			(at 132.08 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cfbf7b14-b6fd-4dbc-9c33-dc77e33d1b59")
 		)
@@ -6299,6 +6461,15 @@
 			)
 		)
 		(property "Description" "8-bit I/O expander, I2C, interrupts, PDIP-18"
+			(at 199.39 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "MCP23008T-E/SOTR-ND"
 			(at 199.39 129.54 0)
 			(effects
 				(font
@@ -6486,6 +6657,15 @@
 			)
 		)
 		(property "Description" "20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "ATTINY412-SSN-ND"
 			(at 152.4 93.98 0)
 			(effects
 				(font
@@ -7049,6 +7229,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "TSW-105-23-F-S-ND"
+			(at 228.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e0325de-a186-4478-b98c-dcb7a60e88ae")
 		)
@@ -7128,6 +7317,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "311-4.70KCRTR-ND"
+			(at 187.96 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0b425b16-fa9b-4873-ad9d-c89683302737")
 		)
@@ -7190,6 +7388,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 123.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "311-4.70KCRTR-ND"
 			(at 123.19 74.93 0)
 			(effects
 				(font
@@ -7399,6 +7606,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier ID" "160-1179-2-ND"
+			(at 194.31 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e51c323e-1c6b-4b38-b2f9-0ff7160fec1f")
 		)
@@ -7463,6 +7679,15 @@
 			)
 		)
 		(property "Description" "20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8"
+			(at 105.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "ATTINY412-SSN-ND"
 			(at 105.41 93.98 0)
 			(effects
 				(font
@@ -7683,6 +7908,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only Type-C Plug connector"
+			(at 43.18 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier ID" "2223-UJ20-C-H-G-SMT-1-P16-TR-ND"
 			(at 43.18 83.82 0)
 			(effects
 				(font
